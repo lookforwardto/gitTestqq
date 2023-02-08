@@ -5,5 +5,6 @@ void main(）
 	int i = 0;
 	double j = 3.0;
 
+	double j = 1.0;
 }
 
