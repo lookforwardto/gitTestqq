@@ -4,5 +4,6 @@ void main(）
 {
 	int i = 0;
 
+	double j = aa;1
 }
 
