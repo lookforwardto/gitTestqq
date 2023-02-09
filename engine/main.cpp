@@ -5,7 +5,6 @@ void main(）
 	int i = 0;
 	double j = 3.0;
 
-	double j = 1.0;
-	double j = aa;1
+	double j = aa;
 }
 
